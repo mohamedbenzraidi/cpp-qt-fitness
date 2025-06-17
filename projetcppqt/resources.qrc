@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>exercice.png</file>
+        <file>plank.png</file>
+        <file>pushups.png</file>
+        <file>squats.png</file>
+        <file>muscle_map.png</file>
+        <file>burpees.png</file>
+        <file>chest_muscle.png</file>
+        <file>fullbody_muscle.png</file>
+        <file>legs_muscle.png</file>
+        <file>meal_sun.png</file>
+        <file>core_muscle.png</file>
+        <file>fitness_model.png</file>
+        <file>fitness_register.png</file>
+        <file>mon_icone.png</file>
+        <file>dinner_sun.png</file>
+        <file>lunch_sun.png</file>
+        <file>snack_sun.png</file>
+        <file>dinner_mon.png</file>
+        <file>dinner_sat.png</file>
+        <file>dinner_thu.png</file>
+        <file>dinner_tue.png</file>
+        <file>dinner_wed.png</file>
+        <file>lunch_fri.png</file>
+        <file>lunch_mon.png</file>
+        <file>lunch_sat.png</file>
+        <file>lunch_thu.png</file>
+        <file>lunch_tue.png</file>
+        <file>lunch_wed.png</file>
+        <file>snack__fri.png</file>
+        <file>snack__sat.png</file>
+        <file>snack_mon.png</file>
+        <file>snack_thu.png</file>
+        <file>snack_tue.png</file>
+        <file>snack_wed.png</file>
+        <file>breakfast_fri.png</file>
+        <file>breakfast_mon.png</file>
+        <file>breakfast_sat.png</file>
+        <file>breakfast_sun.png</file>
+        <file>breakfast_thu.png</file>
+        <file>breakfast_tue.png</file>
+        <file>breakfast_wed.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/qwerty"/>
+</RCC>
